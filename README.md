@@ -1,7 +1,9 @@
- #Project by Nguyen Trung Nhan   
- ##Contact: trungnhan21.12@gmail.com  
- ##Based on ML.NET sample at https://github.com/dotnet/machinelearning-samples/blob/master/README.md  
- ##My git: https://github.com/nhannt201  
+ # Classify Images Machine Learning  
+ ## Project by Nguyen Trung Nhan   
+ ## Contact: trungnhan21.12@gmail.com  
+ ## Based on ML.NET sample at https://github.com/dotnet/machinelearning-samples/blob/master/README.md  
+ ## My git: https://github.com/nhannt201  
+![Classify Images Machine Learning](https://i.imgur.com/XqoVdi2.jpg)
 
 Guide:  
 >Replace `C:\Users\lenovo\Desktop\Scan\` to folder containing the images to your classification!  
