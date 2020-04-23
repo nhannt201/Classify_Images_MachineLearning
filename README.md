@@ -1,11 +1,11 @@
- Project by Nguyen Trung Nhan
- Contact: trungnhan21.12@gmail.com
- Based on ML.NET sample at https://github.com/dotnet/machinelearning-samples/blob/master/README.md
- My git: https://github.com/nhannt201
+ Project by Nguyen Trung Nhan \n
+ Contact: trungnhan21.12@gmail.com\n
+ Based on ML.NET sample at https://github.com/dotnet/machinelearning-samples/blob/master/README.md\n
+ My git: https://github.com/nhannt201\n
 
-Guide: 
-Replace "C:\Users\lenovo\Desktop\Scan\" to folder containing the images to your classification!
-Replace "C:\Users\lenovo\Desktop\Result\" to Result folder in the Guide folder
+Guide: \n
+Replace "C:\Users\lenovo\Desktop\Scan\" to folder containing the images to your classification!\n
+Replace "C:\Users\lenovo\Desktop\Result\" to Result folder in the Guide folder\n
 Here is the basic code that categorizes 7 things:
 - People (ConNguoi)
 - Animals (DongVat)
