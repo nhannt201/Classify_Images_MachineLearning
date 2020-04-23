@@ -11,7 +11,7 @@ Guide:
 - People (ConNguoi)
 - Animals (DongVat)
 - Items (DoVat)
-- Flowers
+- Flowers (Hoa)
 - Document (TaiLieu)
 - Nature (ThienNhien)
 - Food (ThucAn)
