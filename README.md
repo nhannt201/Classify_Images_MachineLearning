@@ -1,6 +1,6 @@
  # Classify Images Machine Learning  
 ![Classify Images Machine Learning](https://i.imgur.com/XqoVdi2.jpg)
- ### Project by Nguyen Trung Nhan   
+ ### Author: Nguyen Trung Nhan   
  ### Contact: trungnhan21.12@gmail.com  
  ### Based on ML.NET sample at https://github.com/dotnet/machinelearning-samples/blob/master/README.md  
  ### My git: https://github.com/nhannt201  
