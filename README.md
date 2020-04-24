@@ -16,6 +16,6 @@ Guide:
 - Nature (ThienNhien)
 - Food (ThucAn)
 
-You must not rename in the Result folder, the classification may be corrupted!
-You can `Console.WriteLine` Name of images with `result.Prediction`
+You must not rename in the Result folder, the classification may be corrupted!  
+You can `Console.WriteLine` Name of images with `result.Prediction`  
 Here is the test code. Thank you for your interest in this project!
