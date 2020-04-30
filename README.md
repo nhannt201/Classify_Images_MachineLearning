@@ -24,10 +24,10 @@ You must not rename in the Result folder, the classification may be corrupted!
 You can `Console.WriteLine` Name of images with `result.Prediction`  
 ## Example of using this form:
 First, the image will be loaded into the program:  
-  `var input = new ModelInput ();   
-                 input.ImageSource = <your_image_url>;`  
-  `// Load model and predict output of sample data  
-                 ModelOutput result = ConsumeModel.Predict (input);`    
+  `var input = new ModelInput ();`   
+  `input.ImageSource = <your_image_url>;`  
+  `// Load model and predict output of sample data`  
+  `ModelOutput result = ConsumeModel.Predict (input);`    
 Finally, result.Prediction is the name of the image classified based on the above 7 neu characteristics.  
 
 Goodluck!
